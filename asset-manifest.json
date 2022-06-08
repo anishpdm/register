@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/www.linkurcodes.com/register/static/css/main.f7c8aae9.css",
-    "main.js": "/www.linkurcodes.com/register/static/js/main.4e189738.js",
-    "static/js/787.cda612ba.chunk.js": "/www.linkurcodes.com/register/static/js/787.cda612ba.chunk.js",
-    "index.html": "/www.linkurcodes.com/register/index.html",
-    "main.f7c8aae9.css.map": "/www.linkurcodes.com/register/static/css/main.f7c8aae9.css.map",
-    "main.4e189738.js.map": "/www.linkurcodes.com/register/static/js/main.4e189738.js.map",
-    "787.cda612ba.chunk.js.map": "/www.linkurcodes.com/register/static/js/787.cda612ba.chunk.js.map"
+    "main.css": "./static/css/main.f7c8aae9.css",
+    "main.js": "./static/js/main.cec83942.js",
+    "static/js/787.cda612ba.chunk.js": "./static/js/787.cda612ba.chunk.js",
+    "index.html": "./index.html",
+    "main.f7c8aae9.css.map": "./static/css/main.f7c8aae9.css.map",
+    "main.cec83942.js.map": "./static/js/main.cec83942.js.map",
+    "787.cda612ba.chunk.js.map": "./static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f7c8aae9.css",
-    "static/js/main.4e189738.js"
+    "static/js/main.cec83942.js"
   ]
 }
